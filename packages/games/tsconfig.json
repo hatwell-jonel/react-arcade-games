@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",                    // Modern JS target
+        "module": "ESNext",                    // Keep ESM
+        "moduleResolution": "bundler",            // Resolve folders/modules correctly
+        "jsx": "react-jsx",                    // For React TSX
+        "declaration": true,                   // Generate .d.ts files
+        "declarationMap": true,                // Optional: map for debugging
+        "outDir": "dist",                      // Build output
+        "strict": true,                        // Enable strict TS
+        "esModuleInterop": true,               // Enable default imports
+        "forceConsistentCasingInFileNames": true,
+        "skipLibCheck": true
+    },
+    "include": ["src"]
+}
