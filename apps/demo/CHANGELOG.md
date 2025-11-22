@@ -1,5 +1,14 @@
 # demo
 
+## 1.0.10
+
+### Patch Changes
+
+- patcj
+- Updated dependencies
+  - @jonelhatwell/games@0.0.8
+  - @repo/ui@1.0.5
+
 ## 1.0.9
 
 ### Patch Changes
