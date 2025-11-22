@@ -7,8 +7,7 @@ A React + TypeScript arcade games library.
 npm install @jonelhatwell/games
 # or
 pnpm add @jonelhatwell/games
-
-
+```
 
 ## Author
 - Frontend mentor - [@Jonel Hatwell](https://www.frontendmentor.io/profile/hatwell-jonel)
