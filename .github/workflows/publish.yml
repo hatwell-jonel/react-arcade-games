@@ -29,6 +29,12 @@ jobs:
       - name: Build packages
         run: pnpm build
 
+      - name: Publish @jonelhatwell/games
+        working-directory: packages/games
+        run: npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
       - name: Version and Publish
         run: pnpm release
         env:
