@@ -1,5 +1,28 @@
 # docs
 
+## 1.0.4
+
+### Patch Changes
+
+- a
+- Updated dependencies
+  - @jonelhatwell/games@0.0.2
+
+## 1.0.3
+
+### Patch Changes
+
+- pa
+- Updated dependencies
+  - @jonelhatwell/games@2.0.3
+
+## 1.0.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @jonelhatwell/games@2.0.2
+
 ## 1.0.1
 
 ### Patch Changes
