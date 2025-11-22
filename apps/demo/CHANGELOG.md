@@ -1,5 +1,15 @@
 # demo
 
+## 1.0.6
+
+### Patch Changes
+
+- 8ae8d8a: .
+- Updated dependencies [8ae8d8a]
+- Updated dependencies
+  - @jonelhatwell/games@0.0.4
+  - @repo/ui@1.0.3
+
 ## 1.0.5
 
 ### Patch Changes
