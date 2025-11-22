@@ -1,5 +1,14 @@
 # docs
 
+## 1.0.5
+
+### Patch Changes
+
+- patch
+- Updated dependencies
+  - @jonelhatwell/games@0.0.3
+  - @repo/ui@1.0.2
+
 ## 1.0.4
 
 ### Patch Changes

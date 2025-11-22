@@ -1,5 +1,11 @@
 # @repo/typescript-config
 
+## 1.0.2
+
+### Patch Changes
+
+- patch
+
 ## 1.0.1
 
 ### Patch Changes

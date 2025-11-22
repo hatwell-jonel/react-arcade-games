@@ -1,5 +1,11 @@
 # @jonelhatwell/games
 
+## 0.0.3
+
+### Patch Changes
+
+- patch
+
 ## 0.0.2
 
 ### Patch Changes
