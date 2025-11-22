@@ -8,3 +8,6 @@ A React + TypeScript arcade games library.
 npm install @jonelhatwell/games
 # or
 pnpm add @jonelhatwell/games
+
+VERSION
+2.0.2
