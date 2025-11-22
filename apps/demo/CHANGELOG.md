@@ -1,5 +1,17 @@
 # demo
 
+## 1.0.7
+
+### Patch Changes
+
+- try 0.0.5
+- 8df005f: patch
+- Updated dependencies
+- Updated dependencies [fd2c6ae]
+- Updated dependencies [8df005f]
+  - @jonelhatwell/games@0.0.5
+  - @repo/ui@1.0.4
+
 ## 1.0.6
 
 ### Patch Changes

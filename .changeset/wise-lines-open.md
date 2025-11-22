@@ -2,4 +2,4 @@
 "@jonelhatwell/games": patch
 ---
 
-try automation
+patch

@@ -1,5 +1,13 @@
 # @jonelhatwell/games
 
+## 0.0.5
+
+### Patch Changes
+
+- try 0.0.5
+- fd2c6ae: try automation
+- 8df005f: patch
+
 ## 0.0.4
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # @repo/ui
 
+## 1.0.4
+
+### Patch Changes
+
+- try 0.0.5
+- 8df005f: patch
+
 ## 1.0.3
 
 ### Patch Changes
