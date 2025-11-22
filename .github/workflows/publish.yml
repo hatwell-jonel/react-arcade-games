@@ -31,10 +31,7 @@ jobs:
       - name: Configure npm authentication
         run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}" > ~/.npmrc
 
-      - name: Release packages
-        uses: changesets/action@v1
-        with:
-          publish: npm
-          access: public
+      - name: Publish with Changesets
+        run: pnpm release
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
