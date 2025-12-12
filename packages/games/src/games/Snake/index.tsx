@@ -1,5 +1,6 @@
+import { Button } from "@/components/ui/button";
 import React from "react";
 
 export const Snake = () => {
-    return <div>🐍 Snake game try automation</div>;
+    return <div className="text-red-500">🐍 Snake game try automationsss <Button variant={'destructive'}>asd</Button></div>;
 };
